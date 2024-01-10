@@ -1,7 +1,7 @@
 ## DIO BANK
 
 Descrição:
-Projeto de simulação de um sistema bancário simples, desenvolvido como parte do curso de desenvolvimento de software da Digital Innovation One (DIO).
+Projeto de simulação de um sistema bancário simples, utilizando programação orientada a objetos, desenvolvido como parte do curso de desenvolvimento de software da Digital Innovation One (DIO).
 
 ## Funcionalidades:
 
