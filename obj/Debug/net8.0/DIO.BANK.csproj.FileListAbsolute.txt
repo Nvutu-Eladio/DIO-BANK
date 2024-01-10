@@ -1,0 +1,14 @@
+C:\Users\Eladi\Documents\Projetos C#\DIO.BANK\bin\Debug\net8.0\DIO.BANK.exe
+C:\Users\Eladi\Documents\Projetos C#\DIO.BANK\bin\Debug\net8.0\DIO.BANK.deps.json
+C:\Users\Eladi\Documents\Projetos C#\DIO.BANK\bin\Debug\net8.0\DIO.BANK.runtimeconfig.json
+C:\Users\Eladi\Documents\Projetos C#\DIO.BANK\bin\Debug\net8.0\DIO.BANK.dll
+C:\Users\Eladi\Documents\Projetos C#\DIO.BANK\bin\Debug\net8.0\DIO.BANK.pdb
+C:\Users\Eladi\Documents\Projetos C#\DIO.BANK\obj\Debug\net8.0\DIO.BANK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eladi\Documents\Projetos C#\DIO.BANK\obj\Debug\net8.0\DIO.BANK.AssemblyInfoInputs.cache
+C:\Users\Eladi\Documents\Projetos C#\DIO.BANK\obj\Debug\net8.0\DIO.BANK.AssemblyInfo.cs
+C:\Users\Eladi\Documents\Projetos C#\DIO.BANK\obj\Debug\net8.0\DIO.BANK.csproj.CoreCompileInputs.cache
+C:\Users\Eladi\Documents\Projetos C#\DIO.BANK\obj\Debug\net8.0\DIO.BANK.dll
+C:\Users\Eladi\Documents\Projetos C#\DIO.BANK\obj\Debug\net8.0\refint\DIO.BANK.dll
+C:\Users\Eladi\Documents\Projetos C#\DIO.BANK\obj\Debug\net8.0\DIO.BANK.pdb
+C:\Users\Eladi\Documents\Projetos C#\DIO.BANK\obj\Debug\net8.0\DIO.BANK.genruntimeconfig.cache
+C:\Users\Eladi\Documents\Projetos C#\DIO.BANK\obj\Debug\net8.0\ref\DIO.BANK.dll
